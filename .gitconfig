@@ -9,3 +9,5 @@
 	grep = auto
 	interactive = auto
 	status = auto
+[github]
+	user = rimenes
