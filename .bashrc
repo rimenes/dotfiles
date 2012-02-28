@@ -5,4 +5,4 @@ if [ -f `brew --prefix`/etc/bash_completion ]; then
 fi
 
 export NODE_PATH=/usr/local/lib/node
-export PATH="$PATH:/usr/local/share/npm/bin"
+export PATH="/usr/local/bin:$PATH:/usr/local/share/npm/bin"
