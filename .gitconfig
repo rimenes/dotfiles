@@ -11,6 +11,8 @@
 	status = auto
 [github]
 	user = rimenes
+[help]
+	format = web
 [difftool "Kaleidoscope"]
 	cmd = ksdiff-wrapper git \"$LOCAL\" \"$REMOTE\"
 [difftool]
