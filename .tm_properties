@@ -1,0 +1,16 @@
+include = "{.tm_properties,.gitignore,.rvmrc,.rspec}"
+
+softWrap         = false
+softWrap         = false
+showInvisibles   = true
+
+[ *.txt ]
+softWrap         = true
+
+[ source ]
+softTabs         = true
+tabSize          = 2
+
+[ source.python ]
+softTabs         = true
+tabSize          = 4
