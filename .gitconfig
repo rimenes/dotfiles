@@ -19,6 +19,7 @@
 	prompt = false
 [diff]
 	tool = Kaleidoscope
+	algorithm = patience
 [alias]
 	st = status
 	co = checkout
@@ -30,3 +31,4 @@
 	default = current
 [pull]
 	rebase = true
+
