@@ -2,7 +2,7 @@
 	name = Rimenes Ribeiro
 	email = eu@rimenes.net
 [core]
-	editor = subl -n -w
+	editor = atom -n -w
 [color]
 	branch = auto
 	diff = auto
