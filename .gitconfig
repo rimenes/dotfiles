@@ -2,7 +2,7 @@
 	name = Rimenes Ribeiro
 	email = eu@rimenes.net
 [core]
-	editor = atom -n -w
+	editor = subl -n -w
 [color]
 	branch = auto
 	diff = auto
@@ -18,7 +18,7 @@
 [difftool]
 	prompt = false
 [diff]
-	tool = Kaleidoscope
+	tool = vimdiff
 	algorithm = patience
 [alias]
 	st = status
