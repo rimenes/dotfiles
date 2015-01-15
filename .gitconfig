@@ -13,8 +13,6 @@
 	user = rimenes
 [help]
 	format = web
-[difftool "Kaleidoscope"]
-	cmd = ksdiff-wrapper git \"$LOCAL\" \"$REMOTE\"
 [difftool]
 	prompt = false
 [diff]
