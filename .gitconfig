@@ -1,32 +1,31 @@
 [user]
-	name = Rimenes Ribeiro
-	email = eu@rimenes.net
+  name = Rimenes Ribeiro
+  email = eu@rimenes.net
 [core]
-	editor = subl -n -w
+  editor = subl -n -w
 [color]
-	branch = auto
-	diff = auto
-	grep = auto
-	interactive = auto
-	status = auto
+  branch = auto
+  diff = auto
+  grep = auto
+  interactive = auto
+  status = auto
 [github]
-	user = rimenes
+  user = rimenes
 [help]
-	format = web
+  format = web
 [difftool]
-	prompt = false
+  prompt = false
 [diff]
-	tool = vimdiff
-	algorithm = patience
+  tool = vimdiff
+  algorithm = patience
 [alias]
-	st = status
-	co = checkout
-	ci = commit
-	br = branch
-	unstage = reset HEAD
-	lg = log --graph --pretty=format:'%Cred%h%Creset - %C(cyan)%an%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr)%Creset' --abbrev-commit --date=relative
+  st = status
+  co = checkout
+  ci = commit
+  br = branch
+  unstage = reset HEAD
+  lg = log --graph --pretty=format:'%Cred%h%Creset - %C(cyan)%an%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr)%Creset' --abbrev-commit --date=relative
 [push]
-	default = current
+  default = current
 [pull]
-	rebase = true
-
+  rebase = true
