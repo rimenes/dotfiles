@@ -18,6 +18,9 @@
 [diff]
   tool = vimdiff
   algorithm = patience
+[rebase]
+  stat = true
+  autostash = true
 [alias]
   st = status
   co = checkout
