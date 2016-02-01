@@ -25,7 +25,6 @@ antigen bundle git
 antigen bundle rvm
 antigen bundle command-not-found
 antigen bundle vagrant
-antigen bundle colored-man
 antigen bundle zsh-users/zsh-completions src
 antigen bundle zsh-users/zsh-history-substring-search
 antigen bundle zsh-users/zsh-syntax-highlighting
