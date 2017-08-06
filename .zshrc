@@ -36,4 +36,5 @@ antigen theme robbyrussell
 # Tell antigen that you're done.
 antigen-apply
 
+export ERL_AFLAGS="-kernel shell_history enabled"
 export PATH="$PATH:$HOME/.rvm/bin" # Add RVM to PATH for scripting
