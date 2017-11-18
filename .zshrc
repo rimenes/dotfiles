@@ -36,4 +36,4 @@ antigen theme https://github.com/caiogondim/bullet-train-oh-my-zsh-theme bullet-
 antigen apply
 
 export ERL_AFLAGS="-kernel shell_history enabled"
-export PATH="$PATH:$HOME/.rvm/bin" # Add RVM to PATH for scripting
+source /usr/local/opt/asdf/asdf.sh
