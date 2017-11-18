@@ -1,6 +1,7 @@
 brew "antigen"
 brew "asdf"
 brew "git"
+brew "gnu-tar", args: ["with-default-names"]
 brew "heroku"
 brew "postgresql"
 brew "redis"
