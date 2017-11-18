@@ -1,8 +1,6 @@
 [user]
   name = Rimenes Ribeiro
   email = eu@rimenes.net
-[core]
-  editor = subl -n -w
 [color]
   branch = auto
   diff = auto
