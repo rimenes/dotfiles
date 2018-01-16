@@ -35,8 +35,10 @@ mas 'WiFi Scanner', id: 411680127
 mas 'Mactracker', id: 430255202
 mas 'Pocket', id: 568494494
 
+cask 'atom'
 cask 'bartender'
 cask 'blisk'
 cask 'firefox'
 cask 'imageoptim'
 cask 'kitematic'
+cask 'tower'
