@@ -30,6 +30,7 @@ mas 'Slack', id: 803453959
 mas 'Spark', id: 1176895641
 mas 'Telegram', id: 747648890
 mas 'Things3', id: 904280696
+mas 'TrashMe', id: 443126292
 mas 'Trello', id: 1278508951
 mas 'Tweetbot', id: 557168941
 mas 'WiFi Scanner', id: 411680127
