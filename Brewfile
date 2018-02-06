@@ -8,6 +8,7 @@ brew "postgresql"
 brew "redis"
 brew "tmux"
 brew "tree"
+brew 'vim', args: ['with-override-system-vi']
 brew "wget"
 brew "zsh"
 
