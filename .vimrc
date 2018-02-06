@@ -1,3 +1,7 @@
+set number                    " Enable line numbers
+syntax on                     " Enable syntax highlighting
+set cursorline                " Highlight current line
+set ruler                     " Show the cursor position
 set nocompatible              " be iMproved, required
 filetype off                  " required
 
