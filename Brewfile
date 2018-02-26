@@ -40,6 +40,7 @@ mas 'Xcode', id: 497799835
 cask 'atom'
 cask 'bartender'
 cask 'blisk'
+cask 'discord'
 cask 'firefox'
 cask 'google-chrome'
 cask 'imageoptim'
