@@ -23,7 +23,6 @@ antigen use oh-my-zsh
 
 antigen bundle brew
 antigen bundle git
-antigen bundle rvm
 antigen bundle command-not-found
 antigen bundle vagrant
 antigen bundle zsh-users/zsh-completions src
