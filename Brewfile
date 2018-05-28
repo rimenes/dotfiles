@@ -3,6 +3,7 @@ brew "asdf"
 brew "git"
 brew "gnu-tar", args: ["with-default-names"]
 brew "heroku"
+brew "hub"
 brew "mas"
 brew "postgresql"
 brew "redis"
