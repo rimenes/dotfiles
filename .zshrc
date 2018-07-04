@@ -1,5 +1,6 @@
 export PATH=/usr/local/opt/coreutils/libexec/gnubin:$PATH
 export PATH=/usr/local/opt/gnu-tar/libexec/gnubin:$PATH
+export PATH="/usr/local/sbin:$PATH"
 
 # Lines configured by zsh-newuser-install
 HISTFILE=~/.histfile
@@ -34,6 +35,9 @@ antigen theme https://github.com/caiogondim/bullet-train-oh-my-zsh-theme bullet-
 
 # Tell antigen that you're done.
 antigen apply
+
+# Load aliases
+source ~/.zsh/aliases.zsh
 
 export ERL_AFLAGS="-kernel shell_history enabled"
 source /usr/local/opt/asdf/asdf.sh
