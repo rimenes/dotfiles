@@ -7,6 +7,7 @@ brew "hub"
 brew "mas"
 brew "postgresql"
 brew "redis"
+brew "tldr"
 brew "tmux"
 brew "tree"
 brew 'vim', args: ['with-override-system-vi']
