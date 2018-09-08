@@ -39,7 +39,6 @@ mas 'Tweetbot', id: 1384080005
 mas 'WiFi Scanner', id: 411680127
 mas 'Xcode', id: 497799835
 
-cask 'atom'
 cask 'bartender'
 cask 'blisk'
 cask 'chromedriver'
