@@ -36,6 +36,7 @@ mas 'Things3', id: 904280696
 mas 'TrashMe', id: 443126292
 mas 'Trello', id: 1278508951
 mas 'Tweetbot', id: 1384080005
+mas 'Whatsapp', id: 1147396723
 mas 'WiFi Scanner', id: 411680127
 mas 'Xcode', id: 497799835
 
