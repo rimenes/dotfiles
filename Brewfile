@@ -1,18 +1,18 @@
-brew "antigen"
-brew "asdf"
-brew "git"
-brew "gnu-tar", args: ["with-default-names"]
-brew "heroku"
-brew "hub"
-brew "mas"
-brew "postgresql"
-brew "redis"
-brew "tldr"
-brew "tmux"
-brew "tree"
+brew 'antigen'
+brew 'asdf'
+brew 'git'
+brew 'gnu-tar', args: ['with-default-names']
+brew 'heroku'
+brew 'hub'
+brew 'mas'
+brew 'postgresql'
+brew 'redis'
+brew 'tldr'
+brew 'tmux'
+brew 'tree'
 brew 'vim', args: ['with-override-system-vi']
-brew "wget"
-brew "zsh"
+brew 'wget'
+brew 'zsh'
 
 # App Store
 mas '1Password', id: 443987910
