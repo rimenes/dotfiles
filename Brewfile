@@ -15,7 +15,7 @@ brew 'wget'
 brew 'zsh'
 
 # App Store
-mas '1Password', id: 443987910
+mas '1Password', id: 1333542190
 mas 'Amphetamine', id: 937984704
 mas 'Annotate', id: 918207447
 mas 'DaisyDisk', id: 411643860
