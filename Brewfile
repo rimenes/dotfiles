@@ -42,6 +42,7 @@ mas 'Xcode', id: 497799835
 
 cask 'bartender'
 cask 'blisk'
+cask 'brave-browser'
 cask 'chromedriver'
 cask 'discord'
 cask 'docker'
