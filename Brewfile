@@ -28,7 +28,7 @@ mas 'Numbers', id: 409203825
 mas 'Pages', id: 409201541
 mas 'Pixelmator', id: 407963104
 mas 'Pocket', id: 568494494
-mas 'Reeder', id: 880001334
+mas 'Reeder', id: 1449412482
 mas 'Slack', id: 803453959
 mas 'Spark', id: 1176895641
 mas 'Telegram', id: 747648890
