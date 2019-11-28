@@ -1,3 +1,5 @@
+tap 'heroku/brew'
+
 brew 'antigen'
 brew 'asdf'
 brew 'git'
