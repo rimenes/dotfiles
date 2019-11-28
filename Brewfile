@@ -3,7 +3,7 @@ tap 'heroku/brew'
 brew 'antigen'
 brew 'asdf'
 brew 'git'
-brew 'gnu-tar', args: ['with-default-names']
+brew 'gnu-tar'
 brew 'heroku'
 brew 'hub'
 brew 'mas'
@@ -13,7 +13,7 @@ brew 'redis'
 brew 'tldr'
 brew 'tmux'
 brew 'tree'
-brew 'vim', args: ['with-override-system-vi']
+brew 'vim'
 brew 'wget'
 brew 'zsh'
 
