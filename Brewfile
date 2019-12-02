@@ -1,4 +1,5 @@
 tap 'heroku/brew'
+tap 'homebrew/cask-fonts'
 
 brew 'antigen'
 brew 'asdf'
@@ -55,6 +56,7 @@ cask 'discord'
 cask 'docker'
 cask 'dropbox'
 cask 'firefox'
+cask 'font-fira-mono-for-powerline'
 cask 'google-chrome'
 cask 'graphiql'
 cask 'imageoptim'
