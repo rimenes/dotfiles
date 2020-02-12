@@ -37,7 +37,6 @@ mas 'Pixelmator', id: 407963104
 mas 'Pocket', id: 568494494
 mas 'Reeder', id: 1449412482
 mas 'Slack', id: 803453959
-mas 'Spark', id: 1176895641
 mas 'Telegram', id: 747648890
 mas 'Things3', id: 904280696
 mas 'TrashMe', id: 443126292
