@@ -48,6 +48,7 @@ mas 'WiFi Scanner', id: 411680127
 mas 'Xcode', id: 497799835
 
 cask 'alfred'
+cask 'authy'
 cask 'bartender'
 cask 'blisk'
 cask 'chromedriver'
