@@ -25,7 +25,6 @@ brew 'zsh'
 # App Store
 mas '1Password', id: 1333542190
 mas 'Amphetamine', id: 937984704
-mas 'Annotate', id: 918207447
 mas 'DaisyDisk', id: 411643860
 mas 'ForkLift', id: 412448059
 mas 'Keynote', id: 409183694
@@ -52,6 +51,7 @@ cask 'authy'
 cask 'bartender'
 cask 'blisk'
 cask 'chromedriver'
+cask 'cleanshot'
 cask 'coconutbattery'
 cask 'dash'
 cask 'discord'
