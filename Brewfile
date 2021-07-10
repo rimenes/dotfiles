@@ -48,6 +48,7 @@ mas 'Xcode', id: 497799835
 
 cask 'alfred'
 cask 'authy'
+cask 'cakebrew'
 cask 'cleanshot'
 cask 'coconutbattery'
 cask 'dash'
