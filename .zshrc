@@ -25,7 +25,6 @@ antigen use oh-my-zsh
 antigen bundle brew
 antigen bundle git
 antigen bundle command-not-found
-antigen bundle vagrant
 antigen bundle zsh-users/zsh-completions src
 antigen bundle zsh-users/zsh-history-substring-search
 antigen bundle zsh-users/zsh-syntax-highlighting
