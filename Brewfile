@@ -2,7 +2,6 @@ tap 'heroku/brew'
 tap 'homebrew/cask-fonts'
 
 brew 'antigen'
-brew 'archey'
 brew 'asdf'
 brew 'git'
 brew 'gh'
