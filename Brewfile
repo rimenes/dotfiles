@@ -29,6 +29,7 @@ mas 'ForkLift', id: 412448059
 mas 'Keynote', id: 409183694
 mas 'Kindle', id: 405399194
 mas 'Mactracker', id: 430255202
+mas 'Magnet', id: 441258766
 mas 'Noizio', id: 928871589
 mas 'Numbers', id: 409203825
 mas 'Pages', id: 409201541
@@ -69,7 +70,6 @@ cask 'obs'
 cask 'proxyman'
 cask 'sketch'
 cask 'sloth'
-cask 'spectacle'
 cask 'spotify'
 cask 'tableplus'
 cask 'tor-browser'
