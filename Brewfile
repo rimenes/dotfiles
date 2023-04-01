@@ -33,7 +33,7 @@ mas 'Magnet', id: 441258766
 mas 'Noizio', id: 928871589
 mas 'Numbers', id: 409203825
 mas 'Pages', id: 409201541
-mas 'Pixelmator', id: 407963104
+mas 'Pixelmator Pro', id: 1289583905
 mas 'Pocket', id: 568494494
 mas 'Reeder', id: 1449412482
 mas 'Slack', id: 803453959
