@@ -1,4 +1,3 @@
-tap 'heroku/brew'
 tap 'homebrew/cask-fonts'
 
 brew 'antigen'
@@ -7,7 +6,6 @@ brew 'git'
 brew 'gh'
 brew 'gnu-tar'
 brew 'gpg'
-brew 'heroku'
 brew 'mas'
 brew 'minikube'
 brew 'postgresql'
