@@ -37,7 +37,7 @@ mas 'Reeder', id: 1449412482
 mas 'Slack', id: 803453959
 mas 'Telegram', id: 747648890
 mas 'Things3', id: 904280696
-mas 'TrashMe', id: 443126292
+mas 'TrashMe 3', id: 1490879410
 mas 'Trello', id: 1278508951
 mas 'Twitter', id: 1482454543
 mas 'Whatsapp', id: 1147396723
