@@ -39,4 +39,4 @@ antigen apply
 source ~/.zsh/aliases.zsh
 
 export ERL_AFLAGS="-kernel shell_history enabled"
-source /usr/local/opt/asdf/asdf.sh
+. /opt/homebrew/opt/asdf/libexec/asdf.sh
