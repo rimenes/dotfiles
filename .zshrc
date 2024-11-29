@@ -35,6 +35,9 @@ antigen theme https://github.com/caiogondim/bullet-train-oh-my-zsh-theme bullet-
 # Tell antigen that you're done.
 antigen apply
 
+# Set up fzf key bindings and fuzzy completion
+source <(fzf --zsh)
+
 # Load aliases
 source ~/.zsh/aliases.zsh
 

@@ -1,5 +1,6 @@
 brew 'antigen'
 brew 'asdf'
+brew 'fzf'
 brew 'gh'
 brew 'git'
 brew 'gnu-tar'
