@@ -31,5 +31,6 @@
   stash-all = stash save --include-untracked
 [push]
   default = current
+  autoSetupRemote = true
 [pull]
   rebase = true
