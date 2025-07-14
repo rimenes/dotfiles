@@ -17,23 +17,14 @@ compinit
 
 export TERM="xterm-256color"
 
-source $(brew --prefix)/share/antigen/antigen.zsh
+# source antidote
+source $(brew --prefix)/opt/antidote/share/antidote/antidote.zsh
 
-# Load the oh-my-zsh's library.
-antigen use oh-my-zsh
-
-antigen bundle brew
-antigen bundle git
-antigen bundle command-not-found
-antigen bundle zsh-users/zsh-completions src
-antigen bundle zsh-users/zsh-history-substring-search
-antigen bundle zsh-users/zsh-syntax-highlighting
+# initialize plugins statically with ${ZDOTDIR:-~}/.zsh_plugins.txt
+antidote load
 
 # init starship
 eval "$(starship init zsh)"
-
-# Tell antigen that you're done.
-antigen apply
 
 # Set up fzf key bindings and fuzzy completion
 source <(fzf --zsh)

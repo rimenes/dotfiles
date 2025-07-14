@@ -1,4 +1,4 @@
-brew 'antigen'
+brew 'antidote'
 brew 'asdf'
 brew 'fzf'
 brew 'gh'
