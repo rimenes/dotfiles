@@ -27,7 +27,7 @@ mas 'DaisyDisk', id: 411643860
 mas 'Focus Firewall', id: 6476942786
 mas 'ForkLift', id: 412448059
 mas 'Keynote', id: 409183694
-mas 'Kindle', id: 405399194
+mas 'Kindle', id: 302584613
 mas 'Mactracker', id: 430255202
 mas 'Magnet', id: 441258766
 mas 'Noizio', id: 928871589
@@ -39,7 +39,7 @@ mas 'Telegram', id: 747648890
 mas 'Things3', id: 904280696
 mas 'TrashMe 3', id: 1490879410
 mas 'Twitter', id: 1482454543
-mas 'Whatsapp', id: 1147396723
+mas 'Whatsapp', id: 310633997
 mas 'WiFi Scanner', id: 411680127
 mas 'Xcode', id: 497799835
 
