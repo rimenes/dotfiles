@@ -38,7 +38,6 @@ mas 'Reeder', id: 1449412482
 mas 'Telegram', id: 747648890
 mas 'Things3', id: 904280696
 mas 'TrashMe 3', id: 1490879410
-mas 'Twitter', id: 1482454543
 mas 'Whatsapp', id: 310633997
 mas 'WiFi Scanner', id: 411680127
 mas 'Xcode', id: 497799835
