@@ -24,6 +24,7 @@ brew 'zsh'
 mas '1Password', id: 1333542190
 mas 'Amphetamine', id: 937984704
 mas 'DaisyDisk', id: 411643860
+mas 'Focus Firewall', id: 6476942786
 mas 'ForkLift', id: 412448059
 mas 'Keynote', id: 409183694
 mas 'Kindle', id: 405399194
