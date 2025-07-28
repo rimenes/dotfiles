@@ -21,7 +21,6 @@ brew 'wget'
 brew 'zsh'
 
 # App Store
-mas '1Password', id: 1333542190
 mas 'Amphetamine', id: 937984704
 mas 'DaisyDisk', id: 411643860
 mas 'Focus Firewall', id: 6476942786
@@ -42,6 +41,7 @@ mas 'Whatsapp', id: 310633997
 mas 'WiFi Scanner', id: 411680127
 mas 'Xcode', id: 497799835
 
+cask '1password'
 cask 'cleanshot'
 cask 'coconutbattery'
 cask 'dash'
